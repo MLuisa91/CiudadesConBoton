@@ -38,6 +38,7 @@ public class MainActivity extends AppCompatActivity {
                     textViewCiudad.setText("B______");
                 }else if(texto.equals("Mérida")){
                     textViewCiudad.setText("M_____");
+
                 }else if(texto.equals("Zafra")){
                     textViewCiudad.setText("Z____");
                 }else{
